@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\bin\Debug\Stock Project.exe.config
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\bin\Debug\Stock Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\bin\Debug\Stock Project.pdb
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\bin\Debug\Stock Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Stock Solution-Highest\Stock Project\obj\Debug\Stock Project.pdb
