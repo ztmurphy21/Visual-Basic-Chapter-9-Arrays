@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\bin\Debug\Die Project.exe.config
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\bin\Debug\Die Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\bin\Debug\Die Project.pdb
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\bin\Debug\Die Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Die Solution\Die Project\obj\Debug\Die Project.pdb
