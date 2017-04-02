@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\bin\Debug\Paper Project.exe.config
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\bin\Debug\Paper Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\bin\Debug\Paper Project.pdb
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\bin\Debug\Paper Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Paper Solution-Two-Dimensional\Paper Project\obj\Debug\Paper Project.pdb
