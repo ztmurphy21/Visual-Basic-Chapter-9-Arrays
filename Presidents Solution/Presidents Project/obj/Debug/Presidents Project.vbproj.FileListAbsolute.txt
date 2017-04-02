@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe.config
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.pdb
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.pdb
