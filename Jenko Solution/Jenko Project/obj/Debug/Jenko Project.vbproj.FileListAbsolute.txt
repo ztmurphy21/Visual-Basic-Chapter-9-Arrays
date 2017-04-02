@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\bin\Debug\Jenko Project.exe.config
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\bin\Debug\Jenko Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\bin\Debug\Jenko Project.pdb
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\bin\Debug\Jenko Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko Project.exe
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko Project.xml
+D:\College\Visual Basic\VB2015\Chap09\Jenko Solution\Jenko Project\obj\Debug\Jenko Project.pdb
