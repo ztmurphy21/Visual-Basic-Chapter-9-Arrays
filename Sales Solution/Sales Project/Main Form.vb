@@ -17,16 +17,28 @@ Public Class frmMain
         ' the results with two decimal places in a list box
 
         Dim dblSales(,) As Double = {{36.75, 54}, {35, 46.5}, {40.5, 27}, {59, 24}}
-        Dim increaseResult As Double
 
-        For intRow As Integer = 0 To 5 Step +1
-            For intCol As Integer = 0 To 5 Step +1
-                increaseResult = dblSales(intRow, intCol) * 0.025
-                dblSales(intRow, intCol) = increaseResult + dblSales(intRow, intCol)
 
+        For intRow As Integer = 0 To dblSales.GetUpperBound(0)
+            For intCol As Integer = 0 To dblSales.GetUpperBound(1)
+                dblSales(intRow, intCol) += dblSales(intRow, intCol) * 0.25
             Next intCol
         Next intRow
-        lstSales.Items.Add(dblSales(0, 0))
+
+
+
+        lstSales.Items.Add(dblSales(0, 0).ToString("c2"))
+        lstSales.Items.Add(dblSales(0, 1).ToString("c2"))
+        lstSales.Items.Add(dblSales(1, 0).ToString("c2"))
+        lstSales.Items.Add(dblSales(1, 1).ToString("c2"))
+        lstSales.Items.Add(dblSales(2, 0).ToString("c2"))
+        lstSales.Items.Add(dblSales(2, 1).ToString("c2"))
+        lstSales.Items.Add(dblSales(3, 0).ToString("c2"))
+        lstSales.Items.Add(dblSales(3, 1).ToString("c2"))
+
+
+
+
 
     End Sub
 End Class

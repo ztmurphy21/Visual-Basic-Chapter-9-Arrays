@@ -30,16 +30,16 @@ Partial Class frmMain
         'lstSales
         '
         Me.lstSales.FormattingEnabled = True
-        Me.lstSales.ItemHeight = 17
+        Me.lstSales.ItemHeight = 28
         Me.lstSales.Location = New System.Drawing.Point(31, 12)
         Me.lstSales.Name = "lstSales"
         Me.lstSales.SelectionMode = System.Windows.Forms.SelectionMode.None
-        Me.lstSales.Size = New System.Drawing.Size(54, 174)
+        Me.lstSales.Size = New System.Drawing.Size(123, 172)
         Me.lstSales.TabIndex = 2
         '
         'btnCalc
         '
-        Me.btnCalc.Location = New System.Drawing.Point(124, 32)
+        Me.btnCalc.Location = New System.Drawing.Point(176, 12)
         Me.btnCalc.Name = "btnCalc"
         Me.btnCalc.Size = New System.Drawing.Size(79, 28)
         Me.btnCalc.TabIndex = 0
@@ -48,7 +48,7 @@ Partial Class frmMain
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(124, 66)
+        Me.btnExit.Location = New System.Drawing.Point(176, 46)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(79, 28)
         Me.btnExit.TabIndex = 1
@@ -57,9 +57,9 @@ Partial Class frmMain
         '
         'frmMain
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 17.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(11.0!, 28.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(234, 207)
+        Me.ClientSize = New System.Drawing.Size(293, 250)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnCalc)
         Me.Controls.Add(Me.lstSales)
